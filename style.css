@@ -79,3 +79,28 @@
   padding: 60px;
   background: none;
 }
+
+/* Action Section */
+.action{
+  margin: 116px 150px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.action-item{
+  margin-right: 450px;
+}
+.action-title{
+  font-size: 42px;
+  font-weight: bold;
+  color: #252432;
+  margin-bottom: 23px;
+}
+.action-description{
+  font-size: 24px;
+  color: rgba(37, 36, 50, 0.5);
+  margin-bottom: 23px;
+}
+.action img{
+  border-radius: 48px;
+}
