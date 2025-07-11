@@ -104,3 +104,45 @@
 .actn-img img{
   border-radius: 48px;
 }
+main{
+  background-color: #F5F8FF;
+}
+/* Productive User Section */
+.productive-section{
+  background-color: rgba(78, 71, 255, 0.1);
+  padding: 50px 142px;
+  margin: 0 150px;
+  border-radius: 24px;
+}
+.productive-section .section-title{
+  text-align: center;
+  font-size: 38px;
+  font-weight: bold;
+  background: none;
+}
+.productive-section .user-data{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 159px;
+}
+.productive-section .user-data h2{
+  font-family: "Inter", sans-serif;
+  font-size: 80px;
+  font-weight: bold;
+  margin-bottom: 5px;
+  color: #4E47FF;
+}
+.productive-section .sub-title{
+  font-family: "Inter", sans-sarif;
+  font-size: 20px;
+  color: rgba(0, 0, 0, 0.5);
+  text-align: center;
+}
+.productive-section h1{
+  background: none;
+}
+.productive-section .user-data{
+  background: none;
+}
+.
