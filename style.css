@@ -120,6 +120,7 @@ body{
   text-align: center;
   font-size: 38px;
   font-weight: bold;
+  color: #252432;
 }
 .productive-section .user-data{
   display: flex;
@@ -148,6 +149,7 @@ body{
   text-align: center;
   margin-top: 137px;
   margin-bottom: 50px;
+  color: #252432;
 }
 .review-card{
   display: flex;
@@ -175,9 +177,11 @@ body{
   font-size: 24px;
   font-weight: bold;
   margin-bottom: 8px;
+  color: #1E1E1E;
 }
 review-description{
   font-size: 16px;
+  color: #1E1E1E;
 }
 .user{
   display: flex;
@@ -187,6 +191,12 @@ review-description{
 .reviewer-name{
   margin-top: 20px;
   margin-bottom: 5px;
+  font-size: 16px;
+  color: #303030;
+}
+.review-date{
+  font-size: 16px;
+  color: #B3B3B3;
 }
 
 /* Ready to focus section */
@@ -268,6 +278,11 @@ label{
   font-size: 20px;
   color: rgba(0, 0, 0, 0.5);
   padding-top: 20px;
+}
+.get-in-btn .btn{
+  width: 84%;
+  margin-left: 115px;
+  margin-bottom: 50px;
 }
 
 /* Footer Style */
