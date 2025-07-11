@@ -316,4 +316,6 @@ footer{
 }
 .footer-links a:hover{
   color: #1f17ff;
+  transition: color 0.2s ease;
+  cursor: pointer;
 }
