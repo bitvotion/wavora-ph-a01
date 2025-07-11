@@ -301,18 +301,20 @@ footer{
   margin-bottom: 25px;
   color: #8987A1;
 }
-.footer-list{
-  list-style: none;
+.footer-links{
   display: flex;
   justify-content: center;
   align-items: center;
   gap: 48px;
 }
-.footer-list a{
+.footer-links ul{
+  list-style: none;
+}
+.footer-links a{
   text-decoration: none;
   color: #8987A1;
 }
-.footer-list a:hover{
+.footer-links a:hover{
   color: #1f17ff;
   transition: color 0.2s ease;
   cursor: pointer;
