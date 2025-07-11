@@ -269,3 +269,33 @@ label{
   color: rgba(0, 0, 0, 0.5);
   padding-top: 20px;
 }
+
+/* Footer Style */
+footer{
+  background-color: #ffffff;
+  text-align: center;
+  padding-top: 125px;
+  padding-bottom: 100px;
+}
+.footer-logo img{
+  height: 54px; 
+  margin-bottom: 25px;
+}
+.footer-subtitle p{
+  padding: 0 560px;
+  margin-bottom: 25px;
+  color: #8987A1;
+}
+.footer-links{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 48px;
+}
+.footer-links ul{
+  list-style: none;
+}
+.footer-links a{
+  text-decoration: none;
+  color: #8987A1;
+}
